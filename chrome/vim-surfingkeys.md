@@ -11,7 +11,7 @@ Surfingkeys下载地址 -> [传送门](https://chrome.google.com/webstore/detail
 
 第一次接触Surfingkeys的朋友，唯一需要记住的快捷键就是`?`，使用`?`可以调所有快捷键的说明，对于这些众多的快捷键没有必要去死记硬背，有需求但是忘记快捷键的时候再利用`?`翻阅：
 
-![](https://user-gold-cdn.xitu.io/2017/8/24/a58fa574675dd4d8b54bdf5a809d97b7)
+![](https://cloud.githubusercontent.com/assets/288207/16181995/1417ca44-36d4-11e6-96c9-9e84b33f0916.png)
 
 首先我们来看一下四个日常中使用最频繁的快捷键，记住了这四个快捷键鼠标滚轮基本可以弃用了：
 
